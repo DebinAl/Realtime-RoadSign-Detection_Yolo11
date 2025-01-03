@@ -1,0 +1,17 @@
+Detected Signs:
+Class Name: Perintah Jalur Sepeda, Count: 21, Average Confidence: 0.54
+Class Name: Perintah Ikuti Bundaran, Count: 2, Average Confidence: 0.66
+Class Name: Dilarang Belok Kanan, Count: 6, Average Confidence: 0.34
+Class Name: Persimpangan Empat, Count: 119, Average Confidence: 0.78
+Class Name: Hati-Hati, Count: 2, Average Confidence: 0.39
+Class Name: Dilarang Parkir, Count: 13, Average Confidence: 0.57
+Class Name: Dilarang Berhenti, Count: 6, Average Confidence: 0.58
+Class Name: Dilarang Mendahului, Count: 1, Average Confidence: 0.78
+Class Name: Larangan Kecepatan - 40km-jam, Count: 3, Average Confidence: 0.77
+Class Name: Persimpangan 3 Sisi Kanan Prioritas, Count: 1, Average Confidence: 0.44
+Class Name: Lampu Lalu Lintas, Count: 1, Average Confidence: 0.46
+Class Name: Persimpangan 3 Prioritas, Count: 4, Average Confidence: 0.66
+
+Summary:
+Class Name: Perintah Jalur Sepeda, Count: 21, Average Confidence: 0.54
+Class Name: Persimpangan Empat, Count: 119, Average Confidence: 0.78

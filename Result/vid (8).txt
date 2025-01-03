@@ -1,0 +1,17 @@
+Detected Signs:
+Class Name: Perintah Jalur Sepeda, Count: 4, Average Confidence: 0.57
+Class Name: Perintah Ikuti Bundaran, Count: 1, Average Confidence: 0.44
+Class Name: Persimpangan 3 Sisi Kanan Prioritas, Count: 8, Average Confidence: 0.36
+Class Name: Persimpangan Empat, Count: 3, Average Confidence: 0.30
+Class Name: Perintah Lajur Kiri, Count: 1, Average Confidence: 0.34
+Class Name: Banyak Anak-Anak, Count: 39, Average Confidence: 0.62
+Class Name: Larangan Kecepatan - 40km-jam, Count: 38, Average Confidence: 0.68
+Class Name: Larangan Kecepatan - 30km-jam, Count: 36, Average Confidence: 0.61
+Class Name: Dilarang Parkir, Count: 1, Average Confidence: 0.27
+Class Name: Persimpangan 3 Sisi Kiri Prioritas, Count: 1, Average Confidence: 0.33
+Class Name: Berhenti, Count: 3, Average Confidence: 0.41
+
+Summary:
+Class Name: Banyak Anak-Anak, Count: 39, Average Confidence: 0.62
+Class Name: Larangan Kecepatan - 40km-jam, Count: 38, Average Confidence: 0.68
+Class Name: Larangan Kecepatan - 30km-jam, Count: 36, Average Confidence: 0.61

@@ -1,0 +1,5 @@
+Detected Signs:
+Class Name: Dilarang Parkir, Count: 98, Average Confidence: 0.91
+Class Name: Dilarang Putar Balik, Count: 1, Average Confidence: 0.47
+Class Name: Jalur Penyebrangan, Count: 9, Average Confidence: 0.56
+Class Name: Rumah Sakit, Count: 2, Average Confidence: 0.34

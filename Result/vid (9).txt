@@ -1,0 +1,15 @@
+Detected Signs:
+Class Name: Perintah Jalur Sepeda, Count: 47, Average Confidence: 0.58
+Class Name: Perintah Pilih Satu Jalur, Count: 32, Average Confidence: 0.41
+Class Name: Perintah Lajur Kiri, Count: 1, Average Confidence: 0.25
+Class Name: Putar Balik, Count: 1, Average Confidence: 0.36
+Class Name: Masjid, Count: 3, Average Confidence: 0.34
+Class Name: Banyak Anak-Anak, Count: 2, Average Confidence: 0.42
+Class Name: Persimpangan 3 Sisi Kanan Prioritas, Count: 43, Average Confidence: 0.79
+Class Name: Persimpangan 3 Sisi Kiri Prioritas, Count: 25, Average Confidence: 0.69
+
+Summary:
+Class Name: Perintah Jalur Sepeda, Count: 47, Average Confidence: 0.58
+Class Name: Perintah Pilih Satu Jalur, Count: 32, Average Confidence: 0.41
+Class Name: Persimpangan 3 Sisi Kanan Prioritas, Count: 43, Average Confidence: 0.79
+Class Name: Persimpangan 3 Sisi Kiri Prioritas, Count: 25, Average Confidence: 0.69

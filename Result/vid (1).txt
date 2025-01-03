@@ -1,0 +1,4 @@
+Summary of Detected Signs:
+Class Name: Dilarang Putar Balik, Count: 1, Average Confidence: 0.38
+Class Name: Dilarang Berhenti, Count: 78, Average Confidence: 0.92
+Class Name: Dilarang Parkir, Count: 2, Average Confidence: 0.61

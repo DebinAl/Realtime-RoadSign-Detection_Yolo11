@@ -1,0 +1,4 @@
+torch --index-url https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp310-cp310-win_amd64.whl
+torchvision --index-url https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp310-cp310-win_amd64.whl
+ultralytics
+roboflow
