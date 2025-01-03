@@ -1,6 +1,8 @@
 # Real-Time Road Sign Detection Using YOLOv11
 This project demonstrates the implementation of YOLOv11 for real-time road sign detection, leveraging deep learning techniques to accurately identify and classify road signs in live video streams. The system is designed to assist in real-time navigation and improve road safety.
 
+For a detailed explanation of the application's architecture, features, and technology stack, refer to the [Project Report](https://1drv.ms/w/c/7a8f2b2853bae142/EVi_EnlXqUVEjuUcC273Z_8BquUMs9jLFVDN27OXNq6k8w?e=FVxjUd).
+
 ## How to Run the Project
 **1. Clone the Repository:**
 ```bash
